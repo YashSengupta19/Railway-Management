@@ -1,0 +1,10 @@
+ERS_NZM_DURONTO
+12283
+Ernakulam_Jn Kozhikkode 23:25 02:37 193 22/03/2023 
+Kozhikkode Mangaluru_Jn 02:37 06:05 226 23/03/2023
+Mangaluru_Jn Ratnagiri 06:05 16:40 765 23/03/2023
+Ratnagiri Panvel 16:40 21:45 363 23/03/2023
+Panvel Vasai_Road 21:45 00:00 67 23/03/2023
+Vasai_Road Vadodara_Jn 00:00 04:32 344 24/03/2023
+Vadodara_Jn Kota_Jn 04:32 11:40 528 24/03/2023
+Kota_Jn Nizamuddin 11:40 17:20 457 24/03/2023

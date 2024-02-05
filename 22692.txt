@@ -1,0 +1,11 @@
+SBC_RAJDHANI
+22692
+Hazrat_Nizamuddin Agra 19:50 21:45 188 14/03/2023	
+Agra Gwalior_Jn 21:45 23:08 118 14/03/2023	
+Gwalior_Jn Bhopal_Jn 23:08 03:45 388 14/03/2023	
+Bhopal_Jn Itarsi_Jn 03:45 05:23 92 15/03/2023	
+Itarsi_Jn Nagpur 05:23 09:25 297 15/03/2023
+Nagpur Secunderabad_Jn 09:25 17:10 577 15/03/2023
+Secunderabad_Jn Guntakal_Jn 17:10 23:30 412 15/03/2023
+Guntakal_Jn Ksr_Bengaluru 23:30 05:20 293 15/03/2023		
+	

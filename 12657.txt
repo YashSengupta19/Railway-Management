@@ -1,0 +1,8 @@
+MAS_SBC_MAIL
+12657
+Mgr_Chennai Arakkonam_Jn 22:50 23:48 81 10/03/2023
+Arakkonam_Jn Katpadi_Jn 23:48 00:38 65 10/03/2023
+Katpadi_Jn Jolarpettai 00:38 01:53 84 11/03/2023
+Jolarpettai Bangarapet 01:53 02:53 75 11/03/2023
+Bangarapet Bengaluru 02:53 03:47 63 11/03/2023
+Bengaluru Ksr_Bengaluru 03:47 04:40 49 11/03/2023

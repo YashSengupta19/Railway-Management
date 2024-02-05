@@ -1,0 +1,14 @@
+Howrah_Porbandar_Express 
+12906
+Howrah_Junction Kharagpur_Junction 22:50 00:30 116 20/3/2023
+Kharagpur_Junction Tatanagar_Junction 00:30 02:25 134	21/3/2023
+Tatanagar_Junction Rourkela 02:25 04:50 163 21/3/2023
+Rourkela Bilaspur_Junction 04:50 09:25 307 21/3/2023
+Bilaspur_Junction Raipur_Junction 09:25 11:20 111 21/3/2023
+Raipur_Junction Durg 11:20 12:20 36	21/3/2023
+Durg Nagpur 12:20	16:20	264 21/3/2023
+Nagpur Vadodara_Junction 16:20 06:55 857 21/3/2023
+Vadodara_Junction Ahmedabad_Junction 06:55 08:55 99 22/3/2023
+Ahmedabad_Junction Rajkot_Junction 08:55 13:35 247 22/3/2023
+Rajkot_Junction Porbandar 13:35 19:00 217	22/3/2023
+Porbandar Okha 19:00 20:00 35	22/3/2023

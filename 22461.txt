@@ -1,0 +1,9 @@
+SHRI_SHAKTI_EXPRESS
+22461
+New_Delhi Ambala_Cant_Junction 17:30 20:18 199 03/03/2023 	
+Ambala_Cant_Junction Ludhiana_Junction 20:18 22:05 113 03/03/2023
+Ludhiana_Junction Jalandhar_Cant 22:05 23:02 53 03/03/2023
+Jalandhar_Cant Pathankot_Cantt 23:02 01:03 113 03/03/2023
+Pathankot_Cantt Jammu_Tawi 01:03 03:10 99 04/03/2023
+Jammu_Tawi Udhampur 03:10 04:18 53 04/03/2023
+Udhampur Shmata_V_D_Ktra 04:18 05:10 25 04/03/2023

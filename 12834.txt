@@ -1,0 +1,10 @@
+Howrah_Ahemdabad_Express
+12834
+Howrah_Junction Kharagpur_Junction 23:55 02:00 116 21/03/2023 
+Kharagpur_Junction Tatanagar_Junction 02:00 03:50 134 22/03/2023	
+Tatanagar_Junction Rourkela 03:50 06:15 163 22/03/2023 
+Rourkela Bilaspur_Junction 06:15 11:40 307 22/03/2023
+Bilaspur_Junction Durg 11:40 14:40 148 22/03/2023	
+Durg Nagpur 14:40 19:00 264 22/03/2023
+Nagpur Vadodara_Junction 19:00 23:02 857 22/03/2023
+Vadodara_Junction Ahmedabad_Junction 23:02 01:00 99 22/03/2023
