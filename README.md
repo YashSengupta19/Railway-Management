@@ -10,3 +10,4 @@ A list of all the functions can be seen in the file - functions.h. A Makefile ha
 
 A detailed description of each module can be found in the file "Railway System Implementation.docx".
 We have used 7 train files, which contain the schedule of those trains.
+# Railway Management
